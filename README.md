@@ -1,6 +1,6 @@
 ## Hi there 👋 It's Aditya
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FF9F&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Programmer+%7C+DSA;Cyan+Hacker+Theme+Enthusiast!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FF9F&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Programmer+%7C+DSA" />
 </p>
 <p align="center">
   <img width="480" height="344" alt="giphy" src="https://github.com/user-attachments/assets/0af9dd02-f989-44b8-a45c-6517610b27f4" />
