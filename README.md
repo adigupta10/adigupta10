@@ -6,24 +6,11 @@
   <img width="480" height="344" alt="giphy" src="https://github.com/user-attachments/assets/0af9dd02-f989-44b8-a45c-6517610b27f4" />
 </p>
 
-
-<!--
-**adigupta10/adigupta10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+# 🚀 About Me:
+🔭 I’m currently working on **Full Stack Web Development Projects**<br>
+👯 I’m looking to collaborate on **Open Source & Web Development Projects**<br>
+🌱 I’m currently learning **MERN Stack & DSA**<br>
+💬 Ask me about **Java, React, Full Stack Development,SQL and Web Technologies**<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityakrgupta11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adigupta7611@gmail.com) 
